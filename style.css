@@ -23,6 +23,7 @@ h3{
     line-height: 250px;
     text-align: center;
     margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.342);
 }
 
 p{  
@@ -61,5 +62,6 @@ h2{
     height: 50px;
     padding: 20px 0px 20px 0px;
     margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.342);
 }
 
